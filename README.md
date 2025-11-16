@@ -3,7 +3,7 @@
 These are the PCB designs built on KICAD for **Rover Orion**, built for the  
 **IRC – International Rover Challenge 2025**
 
-# What's in this Repository?
+## What's in this Repository?
 The PCB is a power dissipation board that can handle up to 180A current.
 Driver Stage
   - XT60 connectors for 4 Motors, 2 14V Li-Po Batteries, and Kill Switch.
